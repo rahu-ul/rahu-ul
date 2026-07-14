@@ -58,15 +58,15 @@ I'm a Computer Science undergrad (AI & Data Science) at GL Bajaj Group of Instit
 
 ### Featured Projects
 
-#### 🛍️ [Shopora — Scalable E-Commerce Architecture](YOUR_REPO_LINK) · [Live Demo](YOUR_LIVE_LINK)
+#### 🛍️ [Shopora — Scalable E-Commerce Architecture](https://github.com/rahu-ul/Shopora) · [Live Demo](shopora-zeta.vercel.app)
 Marketplace platform with Role-Based Access Control and secure session management. Real-time order sync via Socket.io drives instant status updates and live notifications, on top of a modular MVC REST API optimized for low-latency data flow.
 **Stack:** MERN, Socket.io, Express Middleware, MongoDB Atlas
 
-#### ⚡ [RapidKV — High-Performance In-Memory Data Store](YOUR_REPO_LINK)
+#### ⚡ [RapidKV — High-Performance In-Memory Data Store](https://github.com/rahu-ul/RapidKV)
 A Redis-equivalent data store built from scratch in Java. Implements HashMap and Skip List mechanics for low-latency indexing, AOF (Append-Only File) persistence with command normalization and replay-based recovery, a multi-client server over Java Socket Programming, and a custom TTL expiration engine.
 **Stack:** Java, Socket Programming, Multi-threading, System Design
 
-#### 🎬 [PlayHub — Video Streaming & Content Ecosystem](YOUR_REPO_LINK) · [Live Demo](YOUR_LIVE_LINK)
+#### 🎬 [PlayHub — Video Streaming & Content Ecosystem](https://github.com/rahu-ul/PlayHub) · [Live Demo](play-hub-six.vercel.app/)
 Video engine supporting asynchronous uploads and playlists under high-concurrency delivery. Includes a Creator Analytics Dashboard built on MongoDB aggregation pipelines, AI-driven search that cut redundant server requests by 40%, and secure sessions via JWT + HTTP-only cookies.
 **Stack:** React, Node.js, MongoDB, Cloudinary SDK, JWT, Redux Toolkit, AWS
 
