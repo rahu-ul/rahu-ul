@@ -56,12 +56,7 @@ I'm a Computer Science undergrad (AI & Data Science) at GL Bajaj Group of Instit
 
 ---
 
-### Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ### Featured Projects
 
